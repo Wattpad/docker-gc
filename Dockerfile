@@ -11,7 +11,7 @@ RUN apk --update add bash curl \
 
 COPY ./docker-gc /docker-gc
 
-ADD /etc/docker-gc-exclude-containers /etc/docker-gc-exclude-containers
+ADD /etc/docker-gc-exclude /etc/docker-gc-exclude
 
 VOLUME /var/lib/docker-gc
 
