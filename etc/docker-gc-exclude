@@ -1,3 +1,4 @@
 ubuntu:trusty
 alpine:3.2
 [^*]:latest
+docker-registry.wattpad.com/wattpad/frontend:latest
