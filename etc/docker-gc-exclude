@@ -2,6 +2,9 @@ ubuntu:trusty
 alpine:3.2
 [^*]:latest
 .*:latest
+latest
 docker-registry.wattpad.com/wattpad/frontend:latest
+723255503624.dkr.ecr.us-east-1.amazonaws.com/frontend:latest
+723255503624.dkr.ecr.us-east-1.amazonaws.com/test-frontend:latest
 723255503624.dkr.ecr.us-east-1.amazonaws.com/web:latest
 723255503624.dkr.ecr.us-east-1.amazonaws.com/test-web:latest
