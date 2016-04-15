@@ -1,3 +1,6 @@
 ubuntu:trusty
-alpine:3.2
+alpine:.*
+golang:.*
+723255503624.dkr.ecr.us-east-1.amazonaws.com/golang-alpine:.*
+723255503624.dkr.ecr.us-east-1.amazonaws.com/go-unit:.*
 .*:latest
