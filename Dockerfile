@@ -15,4 +15,4 @@ ADD /etc/docker-gc-exclude /etc/docker-gc-exclude
 
 VOLUME /var/lib/docker-gc
 
-CMD ["sleep", "5000"]
+CMD ["/docker-gc"]
